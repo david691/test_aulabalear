@@ -15,10 +15,17 @@ En Toni ha fet un merge!!!
 
 WOW!!! 
 WAW!!!
+pepepeç
+'e'epee
+pepep
 
 # Readme
 
 * un
 * **dos**
 * tres
+
+
+
+
 
