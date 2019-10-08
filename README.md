@@ -13,4 +13,5 @@ Aquest arxiu ha estat modificat, unicament amb texte.
 Per Kirill Munar Frau
 
 En Toni ha fet un merge!!!
-WOW!!!
+WOW!!! 
+WAW!!!
